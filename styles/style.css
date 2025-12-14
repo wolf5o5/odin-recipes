@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.big{
+background-color: #ffe6cc;
+padding: 5px;
+}
+
+
+
+h1 {
+    color: #0000cc;
+    font-size:  5rem; 
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-family: "Comic Sans cursive MS", curive , sans-serif;
+}
+.list {
+    text-align: center;
+
+}
+
+ul {
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+li{
+    margin: 3px;
+    font-family: "Comic Sans cursive MS", curive , sans-serif;
+}
+
+button {
+    background-color: #e6cbb3;
+
+    border: 0;
+    font-size: 1.5rem;
+}
+
+.h-pages{
+list-style-position: inside;
+
+}
+
+.resth1{
+    color: #660000;
+    background-color: #c68c53;
+    border: 5px inset  #d2a679;
+}
+
+img {
+    margin: 30px auto 5px  70px;
+}
+
+
+.detals{
+    border: 3px inset ;
+    height: auto;
+    width: auto;
+    padding: 10px 30px;
+    margin: 5px 10px;
+    text-align: justify;
+}
+
+.dstrong{
+    display: inline-block;
+    width: 10rem;
+}
+
+
+.story{
+    color: #364153;
+margin: 5px 30px;
+font-family: "Comic Sans cursive MS", curive , sans-serif;
+}
+
+.extra{
+    
+     color: #364153;
+margin: 5px 30px;
+font-family: "Comic Sans cursive MS", curive , sans-serif;
+}
+.h2{
+    color: #3e4153;
+    margin: 5px 25px; 
+}
+
+.home{
+    margin: 5px auto 20px auto ;
+}
